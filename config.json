@@ -1,0 +1,10 @@
+{
+  "vault_dir": "E:\\UncategorizeD\\Pessoal",
+  "notas_faladas_file": "notas faladas.md",
+  "audios_transcritos_dir": "Audios-Transcritos",
+  "log_file": null,
+  "whisper_model": "large-v3",
+  "language": "pt",
+  "beam_size": 5,
+  "cpu_threads": null
+}
